@@ -1,2 +1,3 @@
-# spd-css-exercises
-CSS exercises from the front-end class with prof. Gustin Gorazd. 
+# CSS exercises
+CSS exercises from the front-end SPD class with prof. Gustin Gorazd. 
+- CSS typography
